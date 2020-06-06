@@ -49,8 +49,8 @@
 	figure{
 		display: flex;
 		background-image: 
-		url(/images/pattern-bg.svg),
-		url(/images/pattern-curve.svg);
+		url(images/pattern-bg.svg),
+		url(images/pattern-curve.svg);
 		background-repeat: no-repeat;
 		background-position: 
 		right,
@@ -64,7 +64,7 @@
 	}
 
 	.fig{
-		background-image: url(/images/pattern-quotes.svg);
+		background-image: url(images/pattern-quotes.svg);
 		background-position: 100px 1px;
 		background-repeat: no-repeat;
 		padding: 70px 0 70px 0;
@@ -153,7 +153,7 @@
 	}
 
 	.image_mobile {
-		background-image: url(/images/pattern-bg.svg);
+		background-image: url(images/pattern-bg.svg);
 		background-repeat: no-repeat;
 		background-position: right;
 		background-size: 400px;
