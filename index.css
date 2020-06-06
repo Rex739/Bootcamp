@@ -140,7 +140,7 @@
 	}
 }
 
-@media (max-width: 341px){
+@media (max-width: 480px){
 	.container{
 		display: none;
 	}
