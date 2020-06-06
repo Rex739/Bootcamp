@@ -139,7 +139,7 @@
 
 	}
 }
-
+/*responsiveness*/
 @media (max-width: 480px){
 	.container{
 		display: none;
